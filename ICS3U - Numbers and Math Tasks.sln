@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICS3U - Numbers and Math Tasks", "ICS3U - Numbers and Math Tasks\ICS3U - Numbers and Math Tasks.csproj", "{A46C0CA3-4A2F-4537-AAF4-0A7D0FF9757A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A46C0CA3-4A2F-4537-AAF4-0A7D0FF9757A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46C0CA3-4A2F-4537-AAF4-0A7D0FF9757A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46C0CA3-4A2F-4537-AAF4-0A7D0FF9757A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46C0CA3-4A2F-4537-AAF4-0A7D0FF9757A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {935B81C2-E13D-4116-9F59-A60E76686427}
+	EndGlobalSection
+EndGlobal
