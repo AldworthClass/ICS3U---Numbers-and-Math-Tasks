@@ -17,7 +17,7 @@
             Console.WriteLine();
             Console.WriteLine("Task 4");
             // adding a backslash '\' allows you to display special characters.  Google Escape Codes in C# for more
-            Console.WriteLine("There are " + (5 * 12 + 6) + " inches in 5'6\""); 
+            Console.WriteLine("There are " + (5 * 12 + 6) * 2.54 + " centimeters in 5'6\""); 
             Console.WriteLine();
 
 
